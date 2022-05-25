@@ -1,0 +1,39 @@
+* {
+	margin:5;
+	padding:5;        
+}
+h1 {
+	text-align: center;
+	color: ELEGIRCOLOR;    
+}
+body {
+	background:ELEGIRCOLOR;  
+}
+h4,p {
+	color:ELEGIRCOLOR;   
+}
+#two {
+	background-color: #60899f;
+}
+#one {
+	background-color: #4682B4;
+	width: 100%;
+}
+body {
+	background-color: #B0C4DE;
+}
+footer img {
+	border-radius: 300px;
+	box-shadow: 5px;
+	width: 400;
+	height: 400px;
+	transform: rotate(-90deg);
+}
+#div {
+	padding: 1em;
+	margin: 0;
+	float: right;
+	list-style: none;
+	text-decoration: none;
+
+}
